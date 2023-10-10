@@ -1,0 +1,9 @@
+.article-section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.article {
+    flex-basis: calc(25% - 20px); /* Adjust the width as needed */
+}
