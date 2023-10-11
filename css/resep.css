@@ -1,0 +1,1242 @@
+.resep-makanan {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.resep-makanan .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 1398px;
+    position: relative;
+}
+
+.resep-makanan .overlap {
+    position: absolute;
+    width: 3528px;
+    height: 1769px;
+    top: -371px;
+    left: -1604px;
+}
+
+.resep-makanan .group {
+    position: absolute;
+    width: 1761px;
+    height: 505px;
+    top: 0;
+    left: 0;
+}
+
+.resep-makanan .overlap-group {
+    position: absolute;
+    width: 1391px;
+    height: 505px;
+    top: 1809px;
+    left: 5062px;
+}
+
+.resep-makanan .rectangle {
+    width: 1391px;
+    height: 489px;
+    top: 0;
+    position: absolute;
+    left: 0;
+}
+
+.resep-makanan .img {
+    width: 1391px;
+    height: 489px;
+    top: 16px;
+    position: absolute;
+    left: 0;
+}
+
+.resep-makanan .desain-tanpa-judul {
+    position: absolute;
+    width: 71px;
+    height: 102px;
+    top: 384px;
+    left: 100px;
+    object-fit: cover;
+}
+
+.resep-makanan .beige-coklat-cerah {
+    position: absolute;
+    width: 55px;
+    height: 64px;
+    top: 398px;
+    left: 1011px;
+    object-fit: cover;
+}
+
+.resep-makanan .overlap-2 {
+    position: absolute;
+    width: 127px;
+    height: 111px;
+    top: 371px;
+    left: 1604px;
+}
+
+.resep-makanan .rectangle-2 {
+    width: 127px;
+    height: 85px;
+    top: 0;
+    position: absolute;
+    left: 0;
+}
+
+.resep-makanan .rectangle-3 {
+    width: 127px;
+    height: 111px;
+    top: 0;
+    position: absolute;
+    left: 0;
+}
+
+.resep-makanan .text-wrapper {
+    position: absolute;
+    width: 102px;
+    top: 420px;
+    left: 324px;
+    font-family: "Suez One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 27px;
+}
+
+.resep-makanan .text-wrapper-2 {
+    position: absolute;
+    width: 140px;
+    top: 419px;
+    left: 440px;
+    font-family: "Suez One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 27px;
+}
+
+.resep-makanan .text-wrapper-3 {
+    position: absolute;
+    width: 102px;
+    top: 419px;
+    left: 612px;
+    font-family: "Suez One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 27px;
+}
+
+.resep-makanan .text-wrapper-4 {
+    position: absolute;
+    width: 102px;
+    top: 419px;
+    left: 726px;
+    font-family: "Suez One-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 27px;
+}
+
+.resep-makanan .text-wrapper-5 {
+    position: absolute;
+    width: 153px;
+    top: 398px;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--primaryred);
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .overlap-3 {
+    position: absolute;
+    width: 1834px;
+    height: 1280px;
+    top: 489px;
+    left: 1694px;
+}
+
+.resep-makanan .food {
+    position: absolute;
+    width: 1078px;
+    height: 1280px;
+    top: 0;
+    left: 752px;
+    object-fit: cover;
+}
+
+.resep-makanan .TEXT {
+    display: inline-flex;
+    flex-direction: column;
+    height: 142px;
+    align-items: flex-start;
+    gap: 35px;
+    position: absolute;
+    top: 46px;
+    left: 0;
+}
+
+.resep-makanan .flexcontainer {
+    display: flex;
+    flex-direction: column;
+    width: 1030px;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.resep-makanan .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 70px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .span {
+    font-weight: 700;
+    color: #db2f38;
+}
+
+.resep-makanan .text-wrapper-6 {
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+}
+
+.resep-makanan .text-wrapper-7 {
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+}
+
+.resep-makanan .tumis-tofu {
+    width: 867px;
+    top: 551px;
+    left: 1px;
+    position: absolute;
+    height: 234px;
+}
+
+.resep-makanan .overlap-4 {
+    position: absolute;
+    width: 556px;
+    height: 103px;
+    top: 18px;
+    left: 307px;
+}
+
+.resep-makanan .text-wrapper-8 {
+    position: absolute;
+    width: 556px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #0154d0;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .bahan {
+    position: absolute;
+    width: 444px;
+    height: 50px;
+    top: 53px;
+    left: 8px;
+}
+
+.resep-makanan .text-wrapper-9 {
+    position: absolute;
+    width: 58px;
+    top: 0;
+    left: 214px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .text-wrapper-10 {
+    position: absolute;
+    width: 119px;
+    top: 0;
+    left: 317px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .ellipse {
+    height: 11px;
+    top: 20px;
+    left: 84px;
+    border-radius: 7.11px/5.48px;
+    position: absolute;
+    width: 14px;
+    background-color: #000000;
+}
+
+.resep-makanan .ellipse-2 {
+    height: 11px;
+    top: 20px;
+    left: 191px;
+    border-radius: 7.11px/5.48px;
+    position: absolute;
+    width: 14px;
+    background-color: #000000;
+}
+
+.resep-makanan .ellipse-3 {
+    height: 11px;
+    top: 20px;
+    left: 0;
+    border-radius: 7.11px/5.48px;
+    position: absolute;
+    width: 14px;
+    background-color: #000000;
+}
+
+.resep-makanan .ellipse-4 {
+    height: 11px;
+    top: 20px;
+    left: 294px;
+    border-radius: 7.11px/5.48px;
+    position: absolute;
+    width: 14px;
+    background-color: #000000;
+}
+
+.resep-makanan .text-wrapper-11 {
+    position: absolute;
+    width: 62px;
+    top: 0;
+    left: 107px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .text-wrapper-12 {
+    position: absolute;
+    width: 38px;
+    top: 0;
+    left: 23px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .tumis {
+    width: 283px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    height: 234px;
+}
+
+.resep-makanan .time {
+    position: absolute;
+    width: 186px;
+    height: 27px;
+    top: 133px;
+    left: 315px;
+}
+
+.resep-makanan .text-wrapper-13 {
+    position: absolute;
+    top: 6px;
+    left: 38px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.resep-makanan .icon-alarm {
+    position: absolute;
+    width: 30px;
+    height: 28px;
+    top: -1px;
+    left: -1px;
+}
+
+.resep-makanan .p {
+    position: absolute;
+    width: 288px;
+    top: 177px;
+    left: 312px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.resep-makanan .tumis-tofu-2 {
+    position: absolute;
+    width: 868px;
+    height: 234px;
+    top: 859px;
+    left: 0;
+}
+
+.resep-makanan .overlap-5 {
+    position: absolute;
+    width: 556px;
+    height: 108px;
+    top: 18px;
+    left: 308px;
+}
+
+.resep-makanan .bahan-2 {
+    position: absolute;
+    width: 445px;
+    height: 55px;
+    top: 53px;
+    left: 8px;
+}
+
+.resep-makanan .text-wrapper-14 {
+    position: absolute;
+    top: 0;
+    left: 214px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .text-wrapper-15 {
+    position: absolute;
+    top: 0;
+    left: 107px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .text-wrapper-16 {
+    position: absolute;
+    top: 0;
+    left: 23px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .tumis-2 {
+    position: absolute;
+    width: 284px;
+    height: 234px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.resep-makanan .text-wrapper-17 {
+    position: absolute;
+    width: 146px;
+    top: 6px;
+    left: 38px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.resep-makanan .icon-alarm-2 {
+    width: 30px;
+    height: 29px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+}
+
+.resep-makanan .muffin {
+    position: absolute;
+    width: 868px;
+    height: 234px;
+    top: 243px;
+    left: 0;
+}
+
+.resep-makanan .muffin-2 {
+    position: absolute;
+    width: 280px;
+    height: 234px;
+    top: 0;
+    left: 0;
+}
+
+.resep-makanan .overlap-6 {
+    position: absolute;
+    width: 560px;
+    height: 111px;
+    top: 10px;
+    left: 304px;
+}
+
+.resep-makanan .text-wrapper-18 {
+    position: absolute;
+    width: 560px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #0154d0;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .bahan-3 {
+    position: absolute;
+    width: 497px;
+    height: 56px;
+    top: 55px;
+    left: 0;
+}
+
+.resep-makanan .overlap-7 {
+    position: absolute;
+    width: 164px;
+    height: 55px;
+    top: 0;
+    left: 129px;
+}
+
+.resep-makanan .text-wrapper-19 {
+    position: absolute;
+    width: 44px;
+    top: 0;
+    left: 120px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .ellipse-5 {
+    position: absolute;
+    width: 14px;
+    height: 12px;
+    top: 23px;
+    left: 95px;
+    background-color: #000000;
+    border-radius: 7.16px/5.94px;
+}
+
+.resep-makanan .text-wrapper-20 {
+    position: absolute;
+    width: 120px;
+    top: 0;
+    left: 0;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .text-wrapper-21 {
+    position: absolute;
+    width: 137px;
+    top: 1px;
+    left: 352px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .overlap-group-2 {
+    position: absolute;
+    width: 92px;
+    height: 55px;
+    top: 0;
+    left: 26px;
+}
+
+.resep-makanan .ellipse-6 {
+    position: absolute;
+    width: 14px;
+    height: 12px;
+    top: 24px;
+    left: 77px;
+    background-color: #000000;
+    border-radius: 7.16px/5.94px;
+}
+
+.resep-makanan .text-wrapper-22 {
+    position: absolute;
+    width: 87px;
+    top: 0;
+    left: 0;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .ellipse-7 {
+    position: absolute;
+    width: 14px;
+    height: 12px;
+    top: 24px;
+    left: 326px;
+    background-color: #000000;
+    border-radius: 7.16px/5.94px;
+}
+
+.resep-makanan .ellipse-8 {
+    position: absolute;
+    width: 14px;
+    height: 12px;
+    top: 24px;
+    left: 0;
+    background-color: #000000;
+    border-radius: 7.16px/5.94px;
+}
+
+.resep-makanan .time-2 {
+    position: absolute;
+    width: 200px;
+    height: 28px;
+    top: 124px;
+    left: 308px;
+}
+
+.resep-makanan .text-wrapper-23 {
+    position: absolute;
+    width: 158px;
+    top: 7px;
+    left: 40px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.resep-makanan .icon-alarm-3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+}
+
+.resep-makanan .text-wrapper-24 {
+    position: absolute;
+    width: 409px;
+    top: 170px;
+    left: 304px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.resep-makanan .smoothie-beri {
+    width: 874px;
+    top: 551px;
+    left: 960px;
+    position: absolute;
+    height: 234px;
+}
+
+.resep-makanan .time-3 {
+    position: absolute;
+    width: 203px;
+    height: 30px;
+    top: 120px;
+    left: 306px;
+}
+
+.resep-makanan .text-wrapper-25 {
+    top: 11px;
+    position: absolute;
+    width: 159px;
+    left: 42px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.resep-makanan .icon-alarm-4 {
+    width: 34px;
+    height: 32px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+}
+
+.resep-makanan .text-wrapper-26 {
+    position: absolute;
+    width: 412px;
+    top: 170px;
+    left: 306px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.resep-makanan .smoothie {
+    width: 282px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    height: 234px;
+}
+
+.resep-makanan .overlap-8 {
+    position: absolute;
+    width: 564px;
+    height: 105px;
+    top: 13px;
+    left: 306px;
+}
+
+.resep-makanan .text-wrapper-27 {
+    position: absolute;
+    width: 564px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #0154d0;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .bahan-4 {
+    position: absolute;
+    width: 426px;
+    height: 55px;
+    top: 50px;
+    left: 0;
+}
+
+.resep-makanan .overlap-group-3 {
+    position: absolute;
+    width: 211px;
+    height: 55px;
+    top: 0;
+    left: 102px;
+}
+
+.resep-makanan .group-2 {
+    position: absolute;
+    width: 112px;
+    height: 55px;
+    top: 0;
+    left: 99px;
+}
+
+.resep-makanan .text-wrapper-28 {
+    position: absolute;
+    top: 0;
+    left: 25px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .ellipse-9 {
+    position: absolute;
+    width: 14px;
+    height: 12px;
+    top: 23px;
+    left: 0;
+    background-color: #000000;
+    border-radius: 7.21px/5.94px;
+}
+
+.resep-makanan .group-3 {
+    position: absolute;
+    width: 149px;
+    height: 55px;
+    top: 0;
+    left: 0;
+}
+
+.resep-makanan .ellipse-10 {
+    height: 12px;
+    top: 24px;
+    left: 0;
+    border-radius: 7.21px/5.94px;
+    position: absolute;
+    width: 14px;
+    background-color: #000000;
+}
+
+.resep-makanan .text-wrapper-29 {
+    position: absolute;
+    width: 121px;
+    top: 0;
+    left: 26px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.resep-makanan .group-4 {
+    position: absolute;
+    width: 98px;
+    height: 55px;
+    top: 0;
+    left: 330px;
+}
+
+.resep-makanan .text-wrapper-30 {
+    position: absolute;
+    top: 0;
+    left: 26px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .group-5 {
+    position: absolute;
+    width: 85px;
+    height: 55px;
+    top: 0;
+    left: 0;
+}
+
+.resep-makanan .nasi-goreng {
+    position: absolute;
+    width: 874px;
+    height: 234px;
+    top: 243px;
+    left: 960px;
+}
+
+.resep-makanan .bahan-5 {
+    position: absolute;
+    width: 480px;
+    height: 55px;
+    top: 50px;
+    left: 0;
+}
+
+.resep-makanan .overlap-group-4 {
+    position: absolute;
+    width: 171px;
+    height: 55px;
+    top: 0;
+    left: 147px;
+}
+
+.resep-makanan .group-6 {
+    width: 89px;
+    left: 82px;
+    position: absolute;
+    height: 55px;
+    top: 0;
+}
+
+.resep-makanan .group-7 {
+    width: 147px;
+    left: 335px;
+    position: absolute;
+    height: 55px;
+    top: 0;
+}
+
+.resep-makanan .group-8 {
+    width: 119px;
+    position: absolute;
+    height: 55px;
+    top: 0;
+    left: 0;
+}
+
+.resep-makanan .time-4 {
+    position: absolute;
+    width: 203px;
+    height: 30px;
+    top: 121px;
+    left: 306px;
+}
+
+.resep-makanan .text-wrapper-31 {
+    top: 10px;
+    position: absolute;
+    width: 159px;
+    left: 42px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.resep-makanan .icon-alarm-5 {
+    width: 32px;
+    height: 31px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+}
+
+.resep-makanan .nasgor {
+    position: absolute;
+    width: 282px;
+    height: 234px;
+    top: 0;
+    left: 0;
+}
+
+.resep-makanan .nasi-goreng-2 {
+    position: absolute;
+    width: 874px;
+    height: 234px;
+    top: 859px;
+    left: 947px;
+}
+
+.resep-makanan .overlap-9 {
+    position: absolute;
+    width: 564px;
+    height: 104px;
+    top: 13px;
+    left: 306px;
+}
+
+.resep-makanan .bahan-6 {
+    position: absolute;
+    width: 495px;
+    height: 55px;
+    top: 49px;
+    left: 0;
+}
+
+.resep-makanan .group-9 {
+    width: 143px;
+    left: 229px;
+    position: absolute;
+    height: 55px;
+    top: 0;
+}
+
+.resep-makanan .group-10 {
+    width: 107px;
+    left: 390px;
+    position: absolute;
+    height: 55px;
+    top: 0;
+}
+
+.resep-makanan .group-11 {
+    position: absolute;
+    width: 72px;
+    height: 55px;
+    top: 0;
+    left: 147px;
+}
+
+.resep-makanan .group-12 {
+    width: 129px;
+    position: absolute;
+    height: 55px;
+    top: 0;
+    left: 0;
+}
+
+.resep-makanan .time-5 {
+    position: absolute;
+    width: 203px;
+    height: 28px;
+    top: 123px;
+    left: 306px;
+}
+
+.resep-makanan .text-wrapper-32 {
+    top: 8px;
+    position: absolute;
+    width: 159px;
+    left: 42px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.resep-makanan .icon-alarm-6 {
+    width: 34px;
+    height: 29px;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+}
+
+.resep-makanan .overlap-wrapper {
+    position: absolute;
+    width: 674px;
+    height: 70px;
+    top: 66px;
+    left: 1085px;
+}
+
+.resep-makanan .overlap-10 {
+    position: relative;
+    width: 672px;
+    height: 70px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #807e7e;
+}
+
+.resep-makanan .pastel-smiley-logo {
+    position: absolute;
+    width: 64px;
+    height: 63px;
+    top: 6px;
+    left: 604px;
+    object-fit: cover;
+}
+
+.resep-makanan .text-wrapper-33 {
+    position: absolute;
+    top: 6px;
+    left: 85px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #00000080;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.resep-makanan .icon-magnifying {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    top: 11px;
+    left: 20px;
+}
+
+.resep-makanan .navbar {
+    position: fixed;
+    width: 1926px;
+    height: 289px;
+    top: -67px;
+    left: 0;
+}
+
+.resep-makanan .overlap-11 {
+    position: relative;
+    width: 1920px;
+    height: 222px;
+    top: 67px;
+}
+
+.resep-makanan .rectangle-4 {
+    width: 1920px;
+    height: 122px;
+    top: 0;
+    position: absolute;
+    left: 0;
+}
+
+.resep-makanan .text-wrapper-34 {
+    position: absolute;
+    top: 40px;
+    left: 1050px;
+    font-family: "Sumana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.resep-makanan .text-wrapper-35 {
+    position: absolute;
+    top: 40px;
+    left: 1552px;
+    font-family: "Sumana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.resep-makanan .text-wrapper-36 {
+    position: absolute;
+    top: 40px;
+    left: 1288px;
+    font-family: "Sumana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.resep-makanan .image {
+    position: absolute;
+    width: 27px;
+    height: 17px;
+    top: 49px;
+    left: 1151px;
+    object-fit: cover;
+}
+
+.resep-makanan .rectangle-5 {
+    width: 1920px;
+    height: 123px;
+    top: 0;
+    position: absolute;
+    left: 0;
+}
+
+.resep-makanan .desain-tanpa-judul-2 {
+    position: absolute;
+    width: 89px;
+    height: 70px;
+    top: 19px;
+    left: 1803px;
+    object-fit: cover;
+}
+
+.resep-makanan .drop-down {
+    display: flex;
+    width: 124px;
+    align-items: flex-end;
+    justify-content: space-between;
+    position: absolute;
+    top: 40px;
+    left: 855px;
+}
+
+.resep-makanan .text-wrapper-37 {
+    position: relative;
+    width: 101px;
+    height: 27.29px;
+    margin-top: -1px;
+    font-family: "Sumana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.resep-makanan .icon-chevron-bottom {
+    position: relative;
+    width: 15px;
+    height: 10.31px;
+}
+
+.resep-makanan .logo {
+    position: absolute;
+    width: 284px;
+    height: 222px;
+    top: 0;
+    left: 5px;
+    object-fit: cover;
+}

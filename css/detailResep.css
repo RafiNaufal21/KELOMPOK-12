@@ -1,0 +1,250 @@
+.detail-resep {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.detail-resep .div {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 1386px;
+    position: relative;
+}
+
+.detail-resep .overlap {
+    position: absolute;
+    width: 1822px;
+    height: 1271px;
+    top: 115px;
+    left: 98px;
+}
+
+.detail-resep .smuti {
+    position: absolute;
+    width: 1391px;
+    height: 1271px;
+    top: 0;
+    left: 431px;
+    object-fit: cover;
+}
+
+.detail-resep .text-wrapper {
+    position: absolute;
+    width: 611px;
+    top: 124px;
+    left: 671px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #0154d0;
+    font-size: 75px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.detail-resep .smoothie {
+    position: absolute;
+    width: 617px;
+    height: 1023px;
+    top: 125px;
+    left: 0;
+    object-fit: cover;
+}
+
+.detail-resep .isi {
+    position: absolute;
+    width: 1101px;
+    height: 913px;
+    top: 235px;
+    left: 642px;
+}
+
+.detail-resep .time {
+    position: absolute;
+    width: 208px;
+    height: 28px;
+    top: 79px;
+    left: 38px;
+}
+
+.detail-resep .text-wrapper-2 {
+    position: absolute;
+    width: 167px;
+    top: 4px;
+    left: 39px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 20px;
+    white-space: nowrap;
+}
+
+.detail-resep .icon-alarm {
+    position: absolute;
+    width: 30px;
+    height: 29px;
+    top: -1px;
+    left: -1px;
+}
+
+.detail-resep .p {
+    position: absolute;
+    width: 307px;
+    top: 83px;
+    left: 304px;
+    font-family: "Orelega One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.detail-resep .text-wrapper-3 {
+    position: absolute;
+    width: 385px;
+    top: 0;
+    left: 49px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.detail-resep .cara {
+    position: absolute;
+    width: 1064px;
+    height: 419px;
+    top: 494px;
+    left: 7px;
+}
+
+.detail-resep .text-wrapper-4 {
+    position: absolute;
+    width: 447px;
+    top: 0;
+    left: 42px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.detail-resep .flexcontainer {
+    width: 1060px;
+    height: 348px;
+    top: 71px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: absolute;
+    left: 0;
+}
+
+.detail-resep .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+.detail-resep .span {
+    color: #000000;
+}
+
+.detail-resep .text-wrapper-5 {
+    color: #ca4444;
+}
+
+.detail-resep .flexcontainer-2 {
+    width: 1095px;
+    height: 360px;
+    top: 122px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    position: absolute;
+    left: 0;
+}
+
+.detail-resep .span-wrapper {
+    position: relative;
+    align-self: stretch;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+.detail-resep .text-wrapper-6 {
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 40px;
+}
+
+.detail-resep .navbar {
+    position: fixed;
+    width: 1920px;
+    height: 289px;
+    top: -66px;
+    left: 0;
+}
+
+.detail-resep .overlap-group {
+    position: relative;
+    height: 223px;
+    top: 66px;
+}
+
+.detail-resep .rectangle {
+    top: 0;
+    position: absolute;
+    width: 1920px;
+    height: 123px;
+    left: 0;
+}
+
+.detail-resep .img {
+    top: 2px;
+    position: absolute;
+    width: 1920px;
+    height: 123px;
+    left: 0;
+}
+
+.detail-resep .frame {
+    position: absolute;
+    width: 51px;
+    height: 40px;
+    top: 38px;
+    left: 27px;
+}
+
+.detail-resep .logo {
+    position: absolute;
+    width: 284px;
+    height: 223px;
+    top: 0;
+    left: 1636px;
+    object-fit: cover;
+}

@@ -1,0 +1,498 @@
+.profil {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.profil .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1920px;
+    height: 960px;
+    position: relative;
+}
+
+.profil .div-2 {
+    position: absolute;
+    width: 1926px;
+    height: 117px;
+    top: 0;
+    left: 0;
+}
+
+.profil .line {
+    position: absolute;
+    width: 77px;
+    height: 3px;
+    top: 71px;
+    left: 804px;
+}
+
+.profil .beige-coklat-cerah {
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    top: 17px;
+    left: 1344px;
+    object-fit: cover;
+}
+
+.profil .img {
+    position: absolute;
+    width: 103px;
+    height: 4px;
+    top: 78px;
+    left: 739px;
+}
+
+.profil .overlap-group {
+    position: relative;
+    width: 1920px;
+    height: 125px;
+    background-image: url(./img/rectangle-5692.svg);
+    background-size: 100% 100%;
+}
+
+.profil .text-wrapper {
+    position: absolute;
+    top: 45px;
+    left: 1050px;
+    font-family: "Sumana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.profil .text-wrapper-2 {
+    position: absolute;
+    top: 45px;
+    left: 1552px;
+    font-family: "Sumana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.profil .text-wrapper-3 {
+    position: absolute;
+    top: 45px;
+    left: 1288px;
+    font-family: "Sumana-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 27px;
+    white-space: nowrap;
+}
+
+.profil .image {
+    position: absolute;
+    width: 27px;
+    height: 17px;
+    top: 50px;
+    left: 1151px;
+    object-fit: cover;
+}
+
+.profil .rectangle {
+    position: absolute;
+    width: 1920px;
+    height: 125px;
+    top: 0;
+    left: 0;
+}
+
+.profil .desain-tanpa-judul {
+    position: absolute;
+    width: 89px;
+    height: 56px;
+    top: 30px;
+    left: 1803px;
+    object-fit: cover;
+}
+
+.profil .logo {
+    position: absolute;
+    width: 284px;
+    height: 108px;
+    top: 4px;
+    left: 6px;
+}
+
+.profil .overlap {
+    position: absolute;
+    width: 1677px;
+    height: 746px;
+    top: 165px;
+    left: 90px;
+}
+
+.profil .profile-saya {
+    position: absolute;
+    width: 1452px;
+    height: 746px;
+    top: 0;
+    left: 0;
+}
+
+.profil .overlap-2 {
+    position: relative;
+    width: 1442px;
+    height: 746px;
+}
+
+.profil .rectangle-2 {
+    position: absolute;
+    width: 1183px;
+    height: 746px;
+    top: 0;
+    left: 0;
+}
+
+.profil .rectangle-3 {
+    position: absolute;
+    width: 172px;
+    height: 168px;
+    top: 147px;
+    left: 100px;
+    object-fit: cover;
+}
+
+.profil .TEXT {
+    display: flex;
+    flex-direction: column;
+    width: 788px;
+    align-items: flex-start;
+    gap: 35px;
+    position: absolute;
+    top: 66px;
+    left: 100px;
+}
+
+.profil .text-wrapper-4 {
+    position: relative;
+    width: 813px;
+    margin-top: -1px;
+    margin-right: -25.08px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #14376b;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .text-wrapper-5 {
+    top: 166px;
+    left: 321px;
+    color: #000000;
+    font-size: 35px;
+    white-space: nowrap;
+    position: absolute;
+    width: 443px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .element {
+    position: absolute;
+    width: 455px;
+    height: 364px;
+    top: 355px;
+    left: 99px;
+}
+
+.profil .overlap-3 {
+    position: absolute;
+    width: 443px;
+    height: 106px;
+    top: 0;
+    left: 0;
+}
+
+.profil .text-wrapper-6 {
+    position: absolute;
+    width: 443px;
+    top: 0;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.profil .text-wrapper-7 {
+    top: 51px;
+    left: 0;
+    color: #8b8b8b;
+    position: absolute;
+    width: 443px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .overlap-4 {
+    position: absolute;
+    width: 443px;
+    height: 103px;
+    top: 132px;
+    left: 0;
+}
+
+.profil .text-wrapper-8 {
+    top: 48px;
+    left: 0;
+    color: #8b8b8b;
+    font-size: 27px;
+    position: absolute;
+    width: 443px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .overlap-group-2 {
+    position: absolute;
+    width: 443px;
+    height: 113px;
+    top: 251px;
+    left: 0;
+}
+
+.profil .text-wrapper-9 {
+    position: absolute;
+    width: 443px;
+    top: 58px;
+    left: 0;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #8b8b8b;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .element-2 {
+    position: absolute;
+    width: 842px;
+    height: 353px;
+    top: 360px;
+    left: 462px;
+}
+
+.profil .overlap-5 {
+    position: absolute;
+    width: 826px;
+    height: 106px;
+    top: 0;
+    left: 0;
+}
+
+.profil .text-wrapper-10 {
+    top: 51px;
+    left: 7px;
+    position: absolute;
+    width: 443px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #8b8b8b;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .text-wrapper-11 {
+    top: 46px;
+    left: 383px;
+    position: absolute;
+    width: 443px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #8b8b8b;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .overlap-6 {
+    position: absolute;
+    width: 819px;
+    height: 108px;
+    top: 127px;
+    left: 7px;
+}
+
+.profil .text-wrapper-12 {
+    top: 48px;
+    left: 376px;
+    position: absolute;
+    width: 443px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #8b8b8b;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .text-wrapper-13 {
+    position: absolute;
+    width: 443px;
+    top: 53px;
+    left: 1px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #8b8b8b;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .overlap-7 {
+    position: absolute;
+    width: 443px;
+    height: 107px;
+    top: 246px;
+    left: 7px;
+}
+
+.profil .text-wrapper-14 {
+    position: absolute;
+    width: 88px;
+    top: 52px;
+    left: 1px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #8b8b8b;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .text-wrapper-15 {
+    position: absolute;
+    width: 443px;
+    top: 360px;
+    left: 845px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.profil .text-wrapper-16 {
+    position: absolute;
+    width: 443px;
+    top: 487px;
+    left: 845px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 55px;
+    white-space: nowrap;
+}
+
+.profil .text-wrapper-17 {
+    top: 231px;
+    left: 322px;
+    color: #405eff;
+    position: absolute;
+    width: 443px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .text-wrapper-18 {
+    position: absolute;
+    width: 443px;
+    top: 86px;
+    left: 999px;
+    font-family: "Open Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #405eff;
+    font-size: 27px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .icon-edit {
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    top: 84px;
+    left: 1086px;
+}
+
+.profil .group {
+    top: 1px;
+    left: 1216px;
+    position: absolute;
+    width: 461px;
+    height: 85px;
+}
+
+.profil .overlap-8 {
+    position: relative;
+    width: 459px;
+    height: 85px;
+}
+
+.profil .rectangle-4 {
+    position: absolute;
+    width: 394px;
+    height: 85px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d980;
+    border-radius: 20px;
+}
+
+.profil .text-wrapper-19 {
+    position: absolute;
+    width: 342px;
+    top: 16px;
+    left: 117px;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: 55px;
+}
+
+.profil .overlap-wrapper {
+    top: 105px;
+    left: 1212px;
+    position: absolute;
+    width: 461px;
+    height: 85px;
+}
