@@ -1,22 +1,29 @@
-.halaman-utama-doktor {
-    position: relative;
-    width: 1920px;
-    height: 2960px;
+.komunitas {
     background-color: #ffffff;
-    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
 }
 
-.halaman-utama-doktor .overlap {
-    position: absolute;
+.komunitas .div {
+    background-color: #ffffff;
+    overflow: hidden;
     width: 1920px;
+    height: 2960px;
+    position: relative;
+}
+
+.komunitas .overlap {
+    width: auto;
     height: 521px;
-    top: 160px;
+    
     left: -1px;
     background-color: #0a1646;
     border-radius: 0px 0px 69px 69px;
 }
 
-.halaman-utama-doktor .overlap-group {
+.komunitas .overlap-group {
     position: absolute;
     width: 160px;
     height: 29px;
@@ -24,22 +31,22 @@
     left: 512px;
 }
 
-.halaman-utama-doktor .text-wrapper {
-    position: absolute;
+.komunitas .text-wrapper {
     width: 97px;
     top: 0;
     left: 22px;
-    font-family: "Poppins-Medium", Helvetica;
+
     font-weight: 500;
-    color: #ffffff;
     font-size: 12px;
-    text-align: center;
-    letter-spacing: 0;
     line-height: 30px;
     white-space: nowrap;
+    position: absolute;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
 }
 
-.halaman-utama-doktor .line {
+.komunitas .line {
     position: absolute;
     width: 1px;
     height: 24px;
@@ -48,7 +55,7 @@
     object-fit: cover;
 }
 
-.halaman-utama-doktor .desain-tanpa-judul {
+.komunitas .desain-tanpa-judul {
     position: absolute;
     width: 23px;
     height: 24px;
@@ -57,12 +64,12 @@
     object-fit: cover;
 }
 
-.halaman-utama-doktor .div {
+.komunitas .text-wrapper-2 {
     position: absolute;
     width: 7px;
     top: 5px;
     left: 105px;
-    font-family: "Inter-Regular", Helvetica;
+
     font-weight: 400;
     color: #ffffff;
     font-size: 15px;
@@ -71,35 +78,35 @@
     white-space: nowrap;
 }
 
-.halaman-utama-doktor .text-wrapper-2 {
-    position: absolute;
+.komunitas .text-wrapper-3 {
     top: 7px;
     left: 117px;
-    font-family: "Inter-Regular", Helvetica;
+
     font-weight: 400;
-    color: #ffffff;
     font-size: 12px;
+    position: absolute;
+    color: #ffffff;
     letter-spacing: 0;
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-3 {
-    position: absolute;
+.komunitas .text-wrapper-4 {
     top: 430px;
     left: 621px;
-    font-family: "Poppins-Bold", Helvetica;
+    
     font-weight: 700;
-    color: #ffffff;
     font-size: 32px;
+    position: absolute;
+    color: #ffffff;
     letter-spacing: 0;
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-4 {
+.komunitas .text-wrapper-5 {
     position: absolute;
     top: 487px;
     left: 621px;
-    font-family: "Poppins-Bold", Helvetica;
+ 
     font-weight: 700;
     color: #ffffff;
     font-size: 10px;
@@ -107,7 +114,7 @@
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-5 {
+.komunitas .text-wrapper-6 {
     position: absolute;
     top: 487px;
     left: 636px;
@@ -119,7 +126,7 @@
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-6 {
+.komunitas .text-wrapper-7 {
     position: absolute;
     top: 487px;
     left: 708px;
@@ -131,7 +138,7 @@
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-7 {
+.komunitas .text-wrapper-8 {
     position: absolute;
     top: 487px;
     left: 808px;
@@ -143,7 +150,7 @@
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-8 {
+.komunitas .text-wrapper-9 {
     position: absolute;
     top: 487px;
     left: 685px;
@@ -155,7 +162,7 @@
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-9 {
+.komunitas .text-wrapper-10 {
     position: absolute;
     top: 487px;
     left: 779px;
@@ -167,7 +174,7 @@
     line-height: normal;
 }
 
-.halaman-utama-doktor .ellipse {
+.komunitas .ellipse {
     position: absolute;
     width: 69px;
     height: 65px;
@@ -177,7 +184,24 @@
     border-radius: 34.5px/32.5px;
 }
 
-.halaman-utama-doktor .navbar {
+.komunitas .image {
+    position: absolute;
+    width: 144px;
+    height: 44px;
+    top: 444px;
+    left: 1519px;
+    object-fit: cover;
+}
+
+.komunitas .img {
+    position: absolute;
+    width: 1151px;
+    height: 366px;
+    top: 50px;
+    left: 507px;
+}
+
+.komunitas .navbar {
     position: absolute;
     width: 1930px;
     height: 160px;
@@ -185,7 +209,7 @@
     left: -1px;
 }
 
-.halaman-utama-doktor .overlap-group-2 {
+.komunitas .overlap-group-2 {
     position: relative;
     width: 1920px;
     height: 168px;
@@ -194,7 +218,7 @@
     background-size: 100% 100%;
 }
 
-.halaman-utama-doktor .logo {
+.komunitas .logo {
     position: absolute;
     width: 249px;
     height: 84px;
@@ -203,7 +227,7 @@
     object-fit: cover;
 }
 
-.halaman-utama-doktor .text-wrapper-10 {
+.komunitas .text-wrapper-11 {
     position: absolute;
     width: 189px;
     top: 71px;
@@ -217,21 +241,21 @@
     line-height: 27px;
 }
 
-.halaman-utama-doktor .text-wrapper-11 {
-    position: absolute;
+.komunitas .text-wrapper-12 {
     width: 189px;
     top: 71px;
     left: 998px;
     font-family: "Poppins-Regular", Helvetica;
     font-weight: 400;
-    color: #ffffff;
     font-size: 30px;
+    line-height: 27px;
+    position: absolute;
+    color: #ffffff;
     text-align: center;
     letter-spacing: 0;
-    line-height: 27px;
 }
 
-.halaman-utama-doktor .text-wrapper-12 {
+.komunitas .text-wrapper-13 {
     position: absolute;
     width: 189px;
     top: 71px;
@@ -245,7 +269,7 @@
     line-height: 27px;
 }
 
-.halaman-utama-doktor .icon-search-outline {
+.komunitas .icon-search-outline {
     position: absolute;
     width: 51px;
     height: 55px;
@@ -253,7 +277,7 @@
     left: 1663px;
 }
 
-.halaman-utama-doktor .icon-person {
+.komunitas .icon-person {
     position: absolute;
     width: 53px;
     height: 57px;
@@ -261,7 +285,7 @@
     left: 1610px;
 }
 
-.halaman-utama-doktor .overlap-2 {
+.komunitas .overlap-2 {
     position: absolute;
     width: 191px;
     height: 27px;
@@ -269,7 +293,7 @@
     left: 778px;
 }
 
-.halaman-utama-doktor .text-wrapper-13 {
+.komunitas .text-wrapper-14 {
     position: absolute;
     width: 189px;
     top: 0;
@@ -283,7 +307,7 @@
     line-height: 27px;
 }
 
-.halaman-utama-doktor .image {
+.komunitas .image-2 {
     position: absolute;
     width: 20px;
     height: 23px;
@@ -292,7 +316,7 @@
     object-fit: cover;
 }
 
-.halaman-utama-doktor .turtorial {
+.komunitas .turtorial {
     position: absolute;
     width: 270px;
     height: 180px;
@@ -300,13 +324,13 @@
     left: 1459px;
 }
 
-.halaman-utama-doktor .tutorial {
+.komunitas .tutorial {
     position: relative;
     width: 272px;
     height: 180px;
 }
 
-.halaman-utama-doktor .p {
+.komunitas .p {
     position: absolute;
     width: 270px;
     top: 0;
@@ -320,9 +344,9 @@
     line-height: 30px;
 }
 
-.halaman-utama-doktor .text-wrapper-14 {
+.komunitas .text-wrapper-15 {
     position: absolute;
-    top: 705px;
+    top: 540px;
     left: 1232px;
     font-family: "Poppins-Light", Helvetica;
     font-weight: 300;
@@ -332,40 +356,66 @@
     line-height: normal;
 }
 
-.halaman-utama-doktor .text-wrapper-15 {
+.komunitas .text-wrapper-16 {
     position: absolute;
     width: 425px;
-    top: 745px;
+    top: 580px;
     left: 1232px;
-    font-family: "Poppins-Light", Helvetica;
-    font-weight: 300;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
     color: #000000;
     font-size: 16px;
     letter-spacing: 0;
     line-height: normal;
 }
 
-.halaman-utama-doktor .img {
+.komunitas .image-3 {
     position: absolute;
     width: 627px;
     height: 913px;
-    top: 788px;
+    top: 600px;
     left: 516px;
 }
 
-.halaman-utama-doktor .image-2 {
+.komunitas .image-4 {
     position: absolute;
-    width: 640px;
+    width: 630px;
     height: 411px;
-    top: 2511px;
+    top: 2300px;
     left: 517px;
     object-fit: cover;
 }
 
-.halaman-utama-doktor .line-2 {
+.komunitas .line-2 {
     position: absolute;
     width: 639px;
     height: 4px;
     top: 2937px;
     left: 518px;
+}
+
+.komunitas .image-5 {
+    position: absolute;
+    width: 627px;
+    height: 53px;
+    top: 540px;
+    left: 516px;
+}
+
+.komunitas .image-6 {
+    position: absolute;
+    width: 430px;
+    height: 402px;
+    top: 690px;
+    left: 1232px;
+    object-fit: cover;
+}
+
+.komunitas .image-7 {
+    position: absolute;
+    width: 627px;
+    height: 768px;
+    top: 1520px;
+    left: 516px;
+    object-fit: cover;
 }
