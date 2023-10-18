@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chat</title>
+    <!-- Bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    />
+    <!-- Font awesome -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    />
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="css/chat.css" />
+  </head>
+  <body>
+    <div class="container-fluid h-100 p-0">
+      <div class="row h-100 w-100 m-0">
+        <div class="col-md-4 col-xl-3 chat p-0">
+          <div class="card mb-sm-3 mb-md-0 contacts_card">
+            <div class="card-header">
+              <div class="d-flex align-items-center backe">
+                <a href="konsultasi.html" style="color: white;"><svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="16"
+                  height="16"
+                  fill="white"
+                  class="bi bi-arrow-left d-block"
+                  viewBox="0 0 16 16"
+                >
+                  <path
+                    fill-rule="evenodd"
+                    d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z"
+                  />
+                </svg></a>
+                <p class="text-white mb-0">Back</p>
+              </div>
+              <div class="input-group">
+                <input
+                  type="text"
+                  placeholder="Search..."
+                  name=""
+                  class="form-control search"
+                />
+                <div class="input-group-prepend">
+                  <span class="input-group-text search_btn"
+                    ><i class="fas fa-search"></i
+                  ></span>
+                </div>
+              </div>
+            </div>
+
+            <div class="card-body contacts_body">
+              <ui class="contacts">
+                <li class="active">
+                  <div class="d-flex bd-highlight">
+                    <div class="img_cont">
+                      <img
+                        src="image/pp_dokter.png"
+                        class="rounded-circle user_img"
+                      />
+                      <span class="online_icon"></span>
+                    </div>
+                    <div class="user_info">
+                      <span>Dr. Sarah Johnson</span>
+                      <p>Online</p>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="d-flex bd-highlight">
+                    <div class="img_cont">
+                      <img
+                        src="image/pp_dokter.png"
+                        class="rounded-circle user_img"
+                      />
+                      <span class="online_icon offline"></span>
+                    </div>
+                    <div class="user_info">
+                      <span>Dr. Michael Davis</span>
+                      <p>Left 7 mins ago</p>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="d-flex bd-highlight">
+                    <div class="img_cont">
+                      <img
+                        src="image/pp_dokter.png"
+                        class="rounded-circle user_img"
+                      />
+                      <span class="online_icon"></span>
+                    </div>
+                    <div class="user_info">
+                      <span>Dr. Emily White</span>
+                      <p>Online</p>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="d-flex bd-highlight">
+                    <div class="img_cont">
+                      <img
+                        src="image/pp_dokter.png"
+                        class="rounded-circle user_img"
+                      />
+                      <span class="online_icon offline"></span>
+                    </div>
+                    <div class="user_info">
+                      <span>Dr. James Robinson</span>
+                      <p>Left 30 mins ago</p>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="d-flex bd-highlight">
+                    <div class="img_cont">
+                      <img
+                        src="image/pp_dokter.png"
+                        class="rounded-circle user_img"
+                      />
+                      <span class="online_icon offline"></span>
+                    </div>
+                    <div class="user_info">
+                      <span>Dr. Jessica Taylor</span>
+                      <p>Left 50 mins ago</p>
+                    </div>
+                  </div>
+                </li>
+              </ui>
+            </div>
+            <div class="card-footer"></div>
+          </div>
+        </div>
+        <div class="col-md-8 col-xl-9 chat">
+          <div class="card">
+            <div class="card-header msg_head">
+              <div class="d-flex bd-highlight">
+                <div class="img_cont">
+                  <img
+                    src="image/pp_dokter.png"
+                    class="rounded-circle user_img"
+                  />
+                  <span class="online_icon"></span>
+                </div>
+                <div class="user_info">
+                  <span>Dr. David Anderson</span>
+                  <p>17 Messages</p>
+                </div>
+                <div class="video_cam">
+                  <span><i class="fas fa-video"></i></span>
+                  <span><i class="fas fa-phone"></i></span>
+                </div>
+              </div>
+              <span id="action_menu_btn"
+                ><i class="fas fa-ellipsis-v"></i
+              ></span>
+              <div class="action_menu">
+                <ul>
+                  <li><i class="fas fa-user-circle"></i> View profile</li>
+                  <li><i class="fas fa-users"></i> Add to close friends</li>
+                  <li><i class="fas fa-plus"></i> Add to group</li>
+                  <li><i class="fas fa-ban"></i> Block</li>
+                </ul>
+              </div>
+            </div>
+            <div class="card-body msg_card_body">
+              <div class="d-flex justify-content-start mb-4">
+                <div class="img_cont_msg">
+                  <img
+                    src="image/pp_dokter.png"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+                <div class="msg_cotainer">
+                  Halo, Bagaimana dietnya?
+                  <span class="msg_time">8:40 AM, Today</span>
+                </div>
+              </div>
+              <div class="d-flex justify-content-end mb-4">
+                <div class="msg_cotainer_send">
+                  Alhamdullilah
+                  <span class="msg_time_send">8:55 AM, Today</span>
+                </div>
+                <div class="img_cont_msg">
+                  <img
+                    src="https://avatars.hsoubcdn.com/ed57f9e6329993084a436b89498b6088?s=256"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+              </div>
+              <div class="d-flex justify-content-start mb-4">
+                <div class="img_cont_msg">
+                  <img
+                    src="image/pp_dokter.png"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+                <div class="msg_cotainer">
+                  Sudah turun?
+                  <span class="msg_time">9:00 AM, Today</span>
+                </div>
+              </div>
+              <div class="d-flex justify-content-end mb-4">
+                <div class="msg_cotainer_send">
+                  Alhamdullilah sebelumnya 71
+                  <span class="msg_time_send">9:05 AM, Today</span>
+                </div>
+                <div class="img_cont_msg">
+                  <img
+                    src="https://avatars.hsoubcdn.com/ed57f9e6329993084a436b89498b6088?s=256"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+              </div>
+              <div class="d-flex justify-content-start mb-4">
+                <div class="img_cont_msg">
+                  <img
+                    src="image/pp_dokter.png"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+                <div class="msg_cotainer">
+                  kalau sekarang?
+                  <span class="msg_time">9:07 AM, Today</span>
+                </div>
+              </div>
+              <div class="d-flex justify-content-end mb-4">
+                <div class="msg_cotainer_send">
+                  Sekarang naik 80
+                  <span class="msg_time_send">9:10 AM, Today</span>
+                </div>
+                <div class="img_cont_msg">
+                  <img
+                    src="https://avatars.hsoubcdn.com/ed57f9e6329993084a436b89498b6088?s=256"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+              </div>
+              <div class="d-flex justify-content-start mb-4">
+                <div class="img_cont_msg">
+                  <img
+                    src="image/pp_dokter.png"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+                <div class="msg_cotainer">
+                  Coba dengan memulai makanan sehat dan harus konsisten
+                  <span class="msg_time">9:12 AM, Today</span>
+                </div>
+              </div>
+			  <div class="d-flex justify-content-end mb-4">
+                <div class="msg_cotainer_send">
+                  Okee Terima kasih dok
+                  <span class="msg_time_send">9:15 AM, Today</span>
+                </div>
+                <div class="img_cont_msg">
+                  <img
+                    src="https://avatars.hsoubcdn.com/ed57f9e6329993084a436b89498b6088?s=256"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+              </div>
+              <div class="d-flex justify-content-start mb-4">
+                <div class="img_cont_msg">
+                  <img
+                    src="image/pp_dokter.png"
+                    class="rounded-circle user_img_msg"
+                  />
+                </div>
+                <div class="msg_cotainer">
+                  Terima kasih kembali dan semangatt kakk....
+                  <span class="msg_time">9:16 AM, Today</span>
+                </div>
+              </div>
+            </div>
+            <div class="card-footer">
+              <div class="input-group">
+                <div class="input-group-append">
+                  <span class="input-group-text attach_btn"
+                    ><i class="fas fa-paperclip"></i
+                  ></span>
+                </div>
+                <textarea
+                  name=""
+                  class="form-control type_msg"
+                  placeholder="Type your message..."
+                ></textarea>
+                <div class="input-group-append">
+                  <span class="input-group-text send_btn"
+                    ><i class="fas fa-location-arrow"></i
+                  ></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
+  </body>
+</html>
