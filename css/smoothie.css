@@ -1,0 +1,49 @@
+.detaill{
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.smoothie-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.smoothie-recipe {
+    flex: 2;
+}
+
+.smoothie-recipe h2 {
+    color: #ffff;
+}
+
+.smoothie-recipe ul,
+.smoothie-recipe ol {
+    padding-left: 20px;
+    color: white;
+}
+.smoothie-image{
+    float: right;
+    margin-left: 80px;
+}
+.smoothie-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+/* Tambahkan ini ke dalam file css/smoothie.css */
+
+.hidden {
+    display: none;
+}
+
+#readMoreButton {
+    background-color: transparent;
+    color: rgb(30, 127, 238);
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
